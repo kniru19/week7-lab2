@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        hello this is nirmala adhikari
+        hello this is nirmala adhikari... welcome to this page
       </>
     ),
   },
