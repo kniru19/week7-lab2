@@ -13,6 +13,7 @@ const config = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
+  
 
   // Set the production url of your site here
   url: 'https://kniru19.github.io',
